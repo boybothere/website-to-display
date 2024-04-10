@@ -7,6 +7,7 @@ It covers essentially most HTML and CSS basic properties like:
 5. div element and its nesting techniques
 6. CSS grid
 7. Flexbox
-8. CSS positions namely relative, fixed and absolute
-Looking forward to make this skill better in my future projects!!
+8. CSS positions namely relative, fixed and absolute.
+
+Looking forward to make these better in my future projects!!
    
