@@ -1,4 +1,4 @@
-This is a youtube home page display I had coded through a folloup tutorial.
+This is YouTubes's home page clone  display I had coded through a folloup tutorial.
 It covers essentially most HTML and CSS basic properties like:
 1. HTML tags
 2. Hovers and various transitions
